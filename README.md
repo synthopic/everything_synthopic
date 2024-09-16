@@ -1,2 +1,3 @@
-# everything_synthopic
-Everything synthopic
+# Everything synthopic
+
+Publicly available code and discussion
